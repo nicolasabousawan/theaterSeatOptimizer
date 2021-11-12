@@ -17,8 +17,3 @@ test_name = "Test Case 4 large set of people sitting in a large theater"
 number_of_customers_in_group = [5,7,8,1,4,6,7,8,2,6,5,6,7,8,9,9,5,4,7,8,9]
 number_of_seats = 160
 non_vax_cost = 0.01
-
-test_name = "Test Case 5 large set of people sitting in a smaller theater (overcapcity) | time consuming"
-number_of_customers_in_group = [5,7,8,1,4,6,7,8,2,6,5,6,7,8,9,9,5,4,7,8,9]
-number_of_seats = 100
-non_vax_cost = 0.01
