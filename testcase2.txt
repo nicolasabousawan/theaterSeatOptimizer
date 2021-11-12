@@ -1,0 +1,4 @@
+test_name = "Test Case 2 (many large groups)"
+number_of_customers_in_group = [9,9,9,9]
+number_of_seats = 80
+non_vax_cost = 1
