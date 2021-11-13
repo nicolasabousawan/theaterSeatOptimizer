@@ -2,3 +2,7 @@ test_name = "Test Case 1 (generic, below theatre capacity)"
 number_of_customers_in_group = [3,5,6]
 number_of_seats = 50
 group_bouns = 5
+[0,1,0]
+[1,0,0]
+[0,0,0]
+
